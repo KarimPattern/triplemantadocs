@@ -2,6 +2,11 @@
 icon: lucide/rocket
 ---
 
+!!! warning
+
+    This documentation is a **heavy work in progress** and is still being built. 
+    Nothing here is complete or ready to be viewed by the public!
+
 # Get started
 
 For full documentation visit [zensical.org](https://zensical.org/docs/).
