@@ -54,12 +54,6 @@ docs_dir = "docs"
 nav = [
   {"Home" = [
     "home/landing.md",
-    "home/Example1.md",
-    {"Products" = [
-        "home/Example2.md"
-    ]},
-    {"⇀ Visit store page" = "https://triplemanta.lemonsqueezy.com/"},
-    {"⇀ Get help in our Discord" = "https://discord.gg/wVugAM5k9E"},
   ]},
 
   {"Triton Framework" = [
