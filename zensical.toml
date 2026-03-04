@@ -53,8 +53,8 @@ docs_dir = "docs"
 
 nav = [
   {"Home" = [
-    "home/get-started.md",
-    "home/Example Page 1.md",
+    "home/landing.md",
+    "home/Example1.md",
     {"Products" = [
         "home/Example2.md"
     ]},
