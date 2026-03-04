@@ -52,19 +52,19 @@ docs_dir = "docs"
 # ]
 
 nav = [
-  {"Home" = [
-    "Home/About.md",
-    "Home/Example Page 1.md",
-    {"Products" = [
-        "Home/Example2.md"
-    ]},
-    {"⇀ Visit store page" = "https://triplemanta.lemonsqueezy.com/"},
-    {"⇀ Get help in our Discord" = "https://discord.gg/wVugAM5k9E"},
-  ]},
+    { "Home" = [
+        "home/get-started.md",
+        "home/Example Page 1.md",
+        { "Products" = [
+            "home/Example2.md",
+        ] },
+        { "⇀ Visit store page" = "https://triplemanta.lemonsqueezy.com/" },
+        { "⇀ Get help in our Discord" = "https://discord.gg/wVugAM5k9E" },
+    ] },
 
-  {"Triton Framework" = [
-     "Triton Framework/getstarted.md",
-  ]}
+    { "Triton Framework" = [
+        "Triton Framework/getstarted.md",
+    ] },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -317,4 +317,3 @@ logo = "manta/tm"
 
 [project.extra]
 homepage = "https://triplemanta.com"
-
