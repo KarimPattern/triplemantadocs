@@ -53,7 +53,7 @@ docs_dir = "docs"
 
 nav = [
   {"Home" = [
-    "home/landing",
+    "home/get-started",
     "home/Example1",
     {"Products" = [
         "home/Example2"
@@ -63,7 +63,7 @@ nav = [
   ]},
 
   {"Triton Framework" = [
-     "Triton Framework/getstarted",
+     "tritonframework/get-started",
   ]}
 ]
 
