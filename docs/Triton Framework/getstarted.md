@@ -1,6 +1,5 @@
----
-icon: lucide/rocket
----
+
+# Setup
 
 !!! warning
 
@@ -169,3 +168,4 @@ $$
 [Hover me][example]
 
   [example]: https://example.com "I'm a tooltip!"
+
