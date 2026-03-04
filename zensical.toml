@@ -33,7 +33,7 @@ site_url = "https://triplemanta.com/"
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
-copyright = "&copy; 2026 tripleManta"
+copyright = "&copy; 2026 tripleManta • <a href=\"https://www.triplemanta.com/terms\">Terms of Service</a> • <a href=\"https://www.triplemanta.com/privacy\">Privacy</a> • <a href=\"https://www.triplemanta.com/imprint\">Imprint</a>"
 #Copyright &copy; 2026 The authors
 #"""
 
@@ -75,7 +75,7 @@ nav = [
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
 #
-#extra_css = ["stylesheets/extra.css"]
+extra_css = ["extra.css"]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
